@@ -1,1 +1,28 @@
-/*  your css code here. If applicable */
+
+.main{
+	border-radius:30px;
+	border:2px solid black;
+	padding:50px;
+	width:300px;
+	 margin: 0 auto;
+	background-color:#bcbec2;
+}
+.red, .green, .yellow {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    display: inline-block; /* This will make them inline */
+    margin-right: 10px; /* Add some space between the blocks */
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
